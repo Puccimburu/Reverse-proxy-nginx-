@@ -1,0 +1,10 @@
+{
+  "databaseUrl": "mongodb://127.0.0.1:27017/genaiexeco-development",
+  "logtailSourceToken": "MA6jTnVzGKw2EHL68qSPmthv",
+  "logtailEndpoint": "https://s1470534.eu-nbg-2.betterstackdata.com",
+  "logLevel": "info",
+  "jwtSecret": "4573baf6892120271e2c371ab9ff539a09c5d0334d2f7126136914320a9105144523c7b357d14672792533e096c183364d3fdae0999b20ba0e9a8c3e9cb9313f",
+  "appPort": 7777,
+  "tokenExpiry": 28800000,
+  "saltRounds": 10
+}
